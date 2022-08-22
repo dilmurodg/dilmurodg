@@ -2,7 +2,7 @@
 <h3 align="center">Beginner in Programming
 
 
-<p><img aling="center" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
+<p><img aling="right" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
 
 - 📖 Currently learning **Python** and **Web development**
 - 🤔 I’m looking for help with Front-end Development
