@@ -4,7 +4,7 @@
 
 <p><img aling="right" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
 
-<h4 align="right" "- 📖 Currently learning **Python** and **Web development**
+- 📖 Currently learning **Python** and **Web development**
 - 🤔 I’m looking for help with Front-end Development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...Major isn't related to tech " >
