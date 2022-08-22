@@ -14,4 +14,4 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dilmurodjon-gayratov" 
+<a href="https://www.linkedin.com/in/dilmurodjon-gayratov">/<a>
