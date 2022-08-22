@@ -9,8 +9,7 @@
   🤔 I’m looking for help with Front-end Development
   😄 Pronouns: he/him
   ⚡ Fun fact: ...Major isn't related to tech " >
-
-                                                ->📫 Reach me: **gayratov_d@mail.ru**
+  ->📫 Reach me: **gayratov_d@mail.ru**
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
