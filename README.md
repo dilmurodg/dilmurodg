@@ -15,4 +15,4 @@
 <p align="left">
 
  - **gayratov_d@mail.ru** 
-
+ - LinkedIn ** Dilmurodjon Gayratov**
