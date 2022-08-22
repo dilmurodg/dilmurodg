@@ -10,8 +10,8 @@
  - 🤔 I’m looking for help with Front-end Development
  - 😄 Pronouns: he/him
  - ⚡fun fact: ...Major is not related to tech
- - Reach me: **gayratov_d@mail.ru** 
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/dilmurodjon-gayratov">/<a>
+ **gayratov_d@mail.ru** 
+
