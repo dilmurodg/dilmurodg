@@ -13,5 +13,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="left">
- **gayratov_d@mail.ru** 
+
+ - **gayratov_d@mail.ru** 
 
