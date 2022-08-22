@@ -5,13 +5,13 @@
 <p><img aling="center" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
   
  
- <h4 align="right"
+ <h4 align="left"
  -📖 Currently learning **Python** and **Web development**
      
  -🤔 I’m looking for help with Front-end Development
      
  -😄 Pronouns: he/him
- -⚡ Fun fact: ...Major is not related to tech/></h4>
+ -⚡ Fun fact: ...Major is not related to tech
  
  ->📫 Reach me: **gayratov_d@mail.ru**
 
