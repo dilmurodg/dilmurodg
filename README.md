@@ -3,7 +3,7 @@
 
 
  <p><img aling="center" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p> 
- 
+ </h3>
  
   
  - 📖 Currently learning **Python** and **Web development**
