@@ -1,7 +1,8 @@
 <h1 align="center">Hi🪐, Call me Dilmurodjon</h1>
 <h3 align="center">Beginner in Programming</h3>
 
-<p><img aling="center" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
+
+ <p><img aling="right" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
  
   
  - 📖 Currently learning **Python** and **Web development**
