@@ -5,11 +5,12 @@
 <p><img aling="center" alt="gif" src="https://github.com/dilmurodg/dilmurodg/blob/main/coding-boy.gif" width="300" height="300" /></p>
 
 
-
+<p aligh="left">
 - 📖 Currently learning **Python** and **Web development**
 - 🤔 I’m looking for help with Front-end Development
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...Major isn't related to tech
+  /></p>
 
 ->📫 Reach me: **gayratov_d@mail.ru**
 
