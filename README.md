@@ -6,4 +6,5 @@
 - 📫 Contact me: **gayratov_d@mail.ru**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...Major isn't related to tech
--->- 📫 Contact me: **gayratov_d@mail.ru**
+
+->📫 Reach me: **gayratov_d@mail.ru**
