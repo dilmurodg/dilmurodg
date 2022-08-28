@@ -6,9 +6,8 @@
  </h3>
  
   
- - 📖 Currently learning **Python** and **Web development**
- - 🤔 I’m looking for help with Front-end Development
- - 😄 Pronouns: he/him
+ -  Currently learning **Python** and **Web development**
+ -  I’m looking for help with Front-end Development
  - ⚡fun fact: ...Major is not related to tech
 
 <h3 align="center">Connect with me:</h3>
